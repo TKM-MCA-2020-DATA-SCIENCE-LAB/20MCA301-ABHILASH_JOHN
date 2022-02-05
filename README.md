@@ -1,10 +1,10 @@
 # 20MCA301-ABHILASH_JOHN
 
 ## Course Outcome 1 (CO1): 
-• Review of python programming – Programs review the fundamentals of python(simple python programs ice breaker) – (at most one lab session)
-• Matrix operations (using vectorization) and transformation using python and SVD using Python. 
-• Programs using matplotlib / plotly / bokeh / seaborn for data visualisation.
-• Programs to handle data using pandas.
+Review of python programming – Programs review the fundamentals of python(simple python programs ice breaker) – (at most one lab session)
+Matrix operations (using vectorization) and transformation using python and SVD using Python. 
+Programs using matplotlib / plotly / bokeh / seaborn for data visualisation.
+Programs to handle data using pandas.
 
 ## Course Outcome 2 (CO2) 
 • Program to implement k-NN classification using any standard dataset available in the public domain and find the accuracy of the algorithm.
